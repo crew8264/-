@@ -4,4 +4,4 @@
 
 https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc
 
-![코딩 기초 트레이닝 캘린더](https://github.com/crew8264/study_programmers/assets/44861398/8517f14f-b4a4-4165-b5bf-87425ad904a9)
+![코딩 기초 트레이닝 캘린더 (1)](https://github.com/crew8264/study_programmers/assets/44861398/87a549bd-70ff-4059-8f9a-9661ba10dc25)
