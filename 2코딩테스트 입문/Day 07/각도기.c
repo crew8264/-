@@ -11,5 +11,4 @@ int solution(int angle) {
         return 3;  
     if(angle == 180)
         return 4;
-       
 }
